@@ -1,6 +1,3 @@
 # TITLE OF PROJECT
 
-Something Here
-
-
-Something Here V2
+Something Here Final
